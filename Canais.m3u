@@ -228,7 +228,7 @@ https://ricks.azureedge.net/hls1/bobonordeste.m3u8
 https://ricks.azureedge.net/hls1/sbt.m3u8
 
 #EXTINF:-1 tvg-ID"SBT" tvg-logo="https://i.imgur.com/yQsXwJF.jpg" group-title="Abertos" type="stream", SBT RJ
- https://m.youtube.com/watch?v=edBJFsQvOVY
+https://m.youtube.com/watch?v=edBJFsQvOVY
 
 #EXTINF:-1 tvg-ID"RCD" tvg-logo="https://i.imgur.com/KrPUXAF.jpg" group-title="Abertos" type="stream", Record
 https://ricks.azureedge.net/hls1/recordsp.m3u8
