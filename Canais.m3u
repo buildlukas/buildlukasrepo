@@ -233,6 +233,15 @@ https://ricks.azureedge.net/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-ID"BND" tvg-logo="https://i.imgur.com/710WeRI.jpg" group-title="Abertos" type="stream", Band
 https://ricks.azureedge.net/hls1/band.m3u8
 
+#EXTINF:-1 tvg-ID"RTV" tvg-logo="https://i.imgur.com/lCR2VBT.png" group-title="Abertos" type="stream", Rede TV!
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w8319807.m3u8
+
+#EXTINF:-1 tvg-ID"TCR" tvg-logo="https://i.imgur.com/WrVMdXl.png" group-title="Abertos" type="stream", TV Cultura
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-ID"FTR" tvg-logo="https://i.imgur.com/TZ8qyFg.png" group-title="Abertos" type="stream", TV Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w745245460.m3u8
+
 ##################################
 
 #EXTINF:-1 tvg-ID"GNW" tvg-logo="https://i.imgur.com/c3tg9As.jpg" group-title="Notícias" type="stream", Globo News
@@ -244,4 +253,4 @@ https://ricks.azureedge.net/hls1/recordnews.m3u8
 #EXTINF:-1 tvg-ID"BNW" tvg-logo="https://i.imgur.com/IFALSBu.jpg" group-title="Notícias" type="stream", Band News
 https://ricks.azureedge.net/hls1/bandnews.m3u8
 
-#################################
+##################################
