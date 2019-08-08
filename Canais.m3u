@@ -50,13 +50,13 @@ https://ricks.azureedge.net/hls1/espnbrasil.m3u8
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/0fLZ6o8.jpg" group-title="Esportes" type="stream", ESPN Extra
 https://ricks.azureedge.net/hls1/espnextra.m3u8
 
-#EXTINF:-1 tvg-ID"STV" tvg-logo="https://i.imgur.com/kcofJR3.jpg" group-title="Esportes" type="stream", SporTV
+#EXTINF:-1 tvg-ID"STV" tvg-logo="https://i.imgur.com/kcofJR3.jpg" group-title="Esportes" type="stream", SporTV HD
 https://ricks.azureedge.net/hls1/sportv1.m3u8
 
-#EXTINF:-1 tvg-ID"STV2" tvg-logo="https://i.imgur.com/5SBUFHc.jpg" group-title="Esportes" type="stream", SporTV 2
+#EXTINF:-1 tvg-ID"STV2" tvg-logo="https://i.imgur.com/5SBUFHc.jpg" group-title="Esportes" type="stream", SporTV 2 HD
 https://ricks.azureedge.net/hls1/sportv2.m3u8
 
-#EXTINF:-1 tvg-ID"STV3" tvg-logo="https://i.imgur.com/ojHkjAp.jpg" group-title="Esportes" type="stream", SporTV 3
+#EXTINF:-1 tvg-ID"STV3" tvg-logo="https://i.imgur.com/ojHkjAp.jpg" group-title="Esportes" type="stream", SporTV 3 HD
 https://ricks.azureedge.net/hls1/sportv3.m3u8
 
 #EXTINF:-1 tvg-ID"CBT" tvg-logo="https://i.imgur.com/zmUEfjF.jpg" group-title="Esportes" type="stream",Combate
@@ -145,7 +145,7 @@ https://ricks.azureedge.net/hls1/hboplus.m3u8
 #EXTINF:-1 tvg-ID"HSG" tvg-logo="https://i.imgur.com/9lc5sZe.jpg" group-title="Filmes" type="stream", HBO Signature
 https://ricks.azureedge.net/hls1/hbosignature.m3u8
 
-#EXTINF:-1 tvg-ID"PRC" tvg-logo="https://i.imgur.com/ugU71nw.jpg" group-title="Filmes" type="stream", Paramount
+#EXTINF:-1 tvg-ID"PRC" tvg-logo="https://i.imgur.com/ugU71nw.jpg" group-title="Filmes" type="stream", Paramount Channel
 https://ricks.azureedge.net/hls1/paramount.m3u8
 
 #EXTINF:-1 tvg-ID"MGP" tvg-logo="https://i.imgur.com/ootJWHX.jpg" group-title="Filmes" type="stream", MegaPix
@@ -244,7 +244,7 @@ http://caikron.com.br:1935/unipar/tvup/chunklist_w745245460.m3u8
 
 ##################################
 
-#EXTINF:-1 tvg-ID"GNW" tvg-logo="https://i.imgur.com/c3tg9As.jpg" group-title="Notícias" type="stream", Globo News
+#EXTINF:-1 tvg-ID"GNW" tvg-logo="https://i.imgur.com/c3tg9As.jpg" group-title="Notícias" type="stream", Globo News HD
 https://ricks.azureedge.net/hls1/globonews.m3u8
 
 #EXTINF:-1 tvg-ID"RNW" tvg-logo="https://i.imgur.com/yxMtbjN.jpg" group-title="Notícias" type="stream", Record News
