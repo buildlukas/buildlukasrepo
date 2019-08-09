@@ -24,6 +24,9 @@ https://ricks.azureedge.net/hls1/disneyxd.m3u8
 #EXTINF:-1 tvg-ID"GLB" tvg-logo="https://i.imgur.com/3fZjCqH.jpg" group-title="Infantil" type="stream", Gloob
 https://ricks.azureedge.net/hls1/gloob.m3u8
 
+#EXTINF:-1 tvg-ID"NTK" tvg-logo="https://i.imgur.com/GlIfCbI.jpg" group-title="Infantil" type="stream", NatGeo Kids
+https://ricks.azureedge.net/hls1/NatGeoKids.m3u8
+
 #EXTINF:-1 tvg-ID"NKE" tvg-logo="https://i.imgur.com/29q2sZN.jpg" group-title="Infantil" type="stream", Nickelodeon
 https://ricks.azureedge.net/hls1/nick.m3u8
 
@@ -32,6 +35,9 @@ https://ricks.azureedge.net/hls1/nickjr.m3u8
 
 #EXTINF:-1 tvg-ID"TNC" tvg-logo="https://i.imgur.com/IpHl7ou.jpg" group-title="Infantil" type="stream", Tooncast
 https://ricks.azureedge.net/hls1/tooncast.m3u8
+
+#EXTINF:-1 tvg-ID"ZMO" tvg-logo="https://i.imgur.com/gKZva18.jpg" group-title="Infantil" type="stream", Zoomoo
+https://ricks.azureedge.net/hls1/zoomoo.m3u8
 
 ###################################
 
@@ -98,8 +104,8 @@ https://ricks.azureedge.net/hls1/premiere7.m3u8
 #EXTINF:-1 tvg-ID"CLE" tvg-logo="https://i.imgur.com/Z1mYM1i.jpg" group-title="Variedades" type="stream", E!
 https://ricks.azureedge.net/hls1/canale.m3u8
 
-#EXTINF:-1 tvg-ID"MTS" tvg-logo="https://i.imgur.com/97ALN0J.jpg" group-title="Variedades" type="stream", Multishow
-https://ricks.azureedge.net/hls1/multishow.m3u8
+#EXTINF:-1 tvg-ID"OFF" tvg-logo="https://i.imgur.com/YbOJAM2.jpg" group-title="Variedades" type="stream", OFF
+https://ricks.azureedge.net/hls1/off.m3u8
 
 #EXTINF:-1 tvg-ID"CMC" tvg-logo="https://i.imgur.com/NymYbnU.jpg" group-title="Variedades" type="stream", Comedy Central
 https://ricks.azureedge.net/hls1/comedycentral.m3u8
@@ -110,13 +116,37 @@ https://ricks.azureedge.net/hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1 tvg-ID"FDN" tvg-logo="https://i.imgur.com/vZpHJDp.jpg" group-title="Variedades" type="stream", Food Network
 https://ricks.azureedge.net/hls1/foodnetwork.m3u8
 
+#EXTINF:-1 tvg-ID"FTV" tvg-logo="https://i.imgur.com/Yi7ryqX.jpg" group-title="Variedades" type="stream", Fish TV
+https://ricks.azureedge.net/hls1/fishtv.m3u8
+
+#EXTINF:-1 tvg-ID"FLF" tvg-logo="https://i.imgur.com/3k8eHgn.jpg" group-title="Variedades" type="stream", Fox Life
+https://ricks.azureedge.net/hls1/foxlife.m3u8
+
 #EXTINF:-1 tvg-ID"GNT" tvg-logo="https://i.imgur.com/RhDWkJa.jpg" group-title="Variedades" type="stream", GNT
 https://ricks.azureedge.net/hls1/gnt.m3u8
+
+#EXTINF:-1 tvg-ID"LFT" tvg-logo="https://i.imgur.com/T5KZjIu.jpg" group-title="Variedades" type="stream", Lifetime
+https://ricks.azureedge.net/hls1/lifetime.m3u8
+
+#EXTINF:-1 tvg-ID"MGT" tvg-logo="https://i.imgur.com/v8SoH8m.jpg" group-title="Variedades" type="stream", GLOBOSAT
+https://ricks.azureedge.net/hls1/maisglobosat.m3u8
+
+#EXTINF:-1 tvg-ID"MTS" tvg-logo="https://i.imgur.com/97ALN0J.jpg" group-title="Variedades" type="stream", Multishow
+https://ricks.azureedge.net/hls1/multishow.m3u8
+
+#EXTINF:-1 tvg-ID"MTV" tvg-logo="https://i.imgur.com/HXWGUEz.jpg" group-title="Variedades" type="stream", MTV
+https://ricks.azureedge.net/hls1/mtv.m3u8
+
+#EXTINF:-1 tvg-ID"TLC" tvg-logo="https://i.imgur.com/Fnv6uFk.jpg" group-title="Variedades" type="stream", TLC
+https://ricks.azureedge.net/hls1/tlc.m3u8
 
 #EXTINF:-1 tvg-ID"VIV" tvg-logo="https://i.imgur.com/M0eNPQ3.jpg" group-title="Variedades" type="stream", Viva
 https://ricks.azureedge.net/hls1/viva.m3u8
 
 ###################################
+
+#EXTINF:-1 tvg-ID"AMC" tvg-logo="https://i.imgur.com/XP5x7YL.jpg" group-title="Filmes" type="stream", AMC
+https://ricks.azureedge.net/hls1/amc.m3u8
 
 #EXTINF:-1 tvg-ID"AXN" tvg-logo="https://i.imgur.com/W4gSyGu.jpg" group-title="Filmes" type="stream", AXN
 https://ricks.azureedge.net/hls1/axn.m3u8
@@ -127,8 +157,17 @@ https://ricks.azureedge.net/hls1/aie.m3u8
 #EXTINF:-1 tvg-ID"CNM" tvg-logo="https://i.imgur.com/J3Wp8A4.jpg" group-title="Filmes" type="stream", Cinemax
 https://ricks.azureedge.net/hls1/cinemax.m3u8
 
-#EXTINF:-1 tvg-ID"CSY" tvg-logo="https://i.imgur.com/OTpvHdL.jpg" group-title="Filmes" type="stream", Sony
-https://ricks.azureedge.net/hls1/sony.m3u8
+#EXTINF:-1 tvg-ID"FX" tvg-logo="https://i.imgur.com/MsKpMK5.jpg" group-title="Filmes" type="stream", FX
+https://ricks.azureedge.net/hls1/fx.m3u8
+
+#EXTINF:-1 tvg-ID"FOX" tvg-logo="https://i.imgur.com/8lIYZHt.jpg" group-title="Filmes" type="stream", Fox
+https://ricks.azureedge.net/hls1/fox.m3u8
+
+#EXTINF:-1 tvg-ID"FP1" tvg-logo="https://i.imgur.com/Ky3no32.jpg" group-title="Filmes" type="stream", Fox Premium 1 | HD
+https://ricks.azureedge.net/hls1/foxpremium1.m3u8
+
+#EXTINF:-1 tvg-ID"FP2" tvg-logo="https://i.imgur.com/RjvT7wa.jpg" group-title="Filmes" type="stream", Fox Premium 2 | HD
+https://ricks.azureedge.net/hls1/foxpremium2.m3u8
 
 #EXTINF:-1 tvg-ID"HBO" tvg-logo="https://i.imgur.com/WUvuq6I.jpg" group-title="Filmes" type="stream", HBO
 https://ricks.azureedge.net/hls1/hbo.m3u8
@@ -151,11 +190,29 @@ https://ricks.azureedge.net/hls1/paramount.m3u8
 #EXTINF:-1 tvg-ID"MGP" tvg-logo="https://i.imgur.com/ootJWHX.jpg" group-title="Filmes" type="stream", MegaPix
 https://ricks.azureedge.net/hls1/megapix.m3u8
 
+#EXTINF:-1 tvg-ID"MAX" tvg-logo="https://i.imgur.com/XayYFVJ.jpg" group-title="Filmes" type="stream", Max
+https://ricks.azureedge.net/hls1/max.m3u8
+
+#EXTINF:-1 tvg-ID"MUP" tvg-logo="https://i.imgur.com/eQTpYfh.jpg" group-title="Filmes" type="stream", MAX Up
+https://ricks.azureedge.net/hls1/maxup.m3u8
+
+#EXTINF:-1 tvg-ID"MPM" tvg-logo="https://i.imgur.com/cFypEwp.jpg" group-title="Filmes" type="stream", MAX Prime
+https://ricks.azureedge.net/hls1/maxprime.m3u8
+
+#EXTINF:-1 tvg-ID"CSY" tvg-logo="https://i.imgur.com/OTpvHdL.jpg" group-title="Filmes" type="stream", Sony
+https://ricks.azureedge.net/hls1/sony.m3u8
+
 #EXTINF:-1 tvg-ID"SPC" tvg-logo="https://i.imgur.com/BV0QkDW.jpg" group-title="Filmes" type="stream", Space
 https://ricks.azureedge.net/hls1/space.m3u8
 
+#EXTINF:-1 tvg-ID"SFY" tvg-logo="https://i.imgur.com/Ml7qDCE.jpg" group-title="Filmes" type="stream", Syfy
+https://ricks.azureedge.net/hls1/syfy.m3u8
+
 #EXTINF:-1 tvg-ID"STU" tvg-logo="https://i.imgur.com/EVyn2p4.jpg" group-title="Filmes" type="stream", Studio Universal
 https://ricks.azureedge.net/hls1/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-ID"TCM" tvg-logo="https://i.imgur.com/b8zbkx9.jpg" group-title="Filmes" type="stream", TCM
+https://ricks.azureedge.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-ID"TLA" tvg-logo="https://i.imgur.com/sa9yjAX.jpg" group-title="Filmes" type="stream", Telecine Action
 https://ricks.azureedge.net/hls1/telecineaction.m3u8
@@ -181,12 +238,6 @@ https://ricks.azureedge.net/hls1/tnt.m3u8
 #EXTINF:-1 tvg-ID"TNS" tvg-logo="https://i.imgur.com/FuyjlQW.jpg" group-title="Filmes" type="stream", TNT Series
 https://ricks.azureedge.net/hls1/tntseries.m3u8
 
-#EXTINF:-1 tvg-ID"FOX" tvg-logo="https://i.imgur.com/8lIYZHt.jpg" group-title="Filmes" type="stream", Fox
-https://ricks.azureedge.net/hls1/fox.m3u8
-
-#EXTINF:-1 tvg-ID"FX" tvg-logo="https://i.imgur.com/MsKpMK5.jpg" group-title="Filmes" type="stream", FX
-https://ricks.azureedge.net/hls1/fx.m3u8
-
 #EXTINF:-1 tvg-ID"WTV" tvg-logo="https://i.imgur.com/mkT4nri.jpg" group-title="Filmes" type="stream", Warner Channel
 https://ricks.azureedge.net/hls1/warner.m3u8
 
@@ -201,7 +252,7 @@ https://ricks.azureedge.net/hls1/discoverycivilization.m3u8
 #EXTINF:-1 tvg-ID"DCS" tvg-logo="https://i.imgur.com/62Tv0nN.jpg" group-title="Documentários" type="stream", Discovery Science
 https://ricks.azureedge.net/hls1/discoveryscience.m3u8
 
-#EXTINF:-1 tvg-ID"HSC" tvg-logo="https://i.imgur.com/tliASbk.jpg" group-title="Documentários" type="stream", History
+#EXTINF:-1 tvg-ID"HSC" tvg-logo="https://i.imgur.com/tliASbk.jpg" group-title="Documentários" type="stream", History | FHD
 https://ricks.azureedge.net/hls1/history.m3u8
 
 #EXTINF:-1 tvg-ID"HSC2" tvg-logo="https://i.imgur.com/75G2GkG.jpg" group-title="Documentários" type="stream", H2
