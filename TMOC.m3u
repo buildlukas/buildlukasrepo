@@ -68,6 +68,7 @@ http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/cris-t1e22-dub-720p.mp4
 
 
 #EXTINF:-1 tvg-logo="httpss://i.imgur.com/u3mKIzH.png" type="video", 2 Temporada
+http://0.0.0.0
 
 #EXTINF:-1 type="video", Episodio 1
 http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t2e01-720p.mp4
@@ -136,6 +137,7 @@ http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t2e21-720p.mp4
 http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t2e22-720p.mp4
 
 #EXTINF:-1 tvg-logo="httpss://i.imgur.com/u3mKIzH.png" type="video", 3 Temporada
+http://0.0.0.0
 
 #EXTINF:-1 type="video", Episodio 1
 http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t3e01-720p.mp4
@@ -204,6 +206,7 @@ http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t3e21-720p.mp4
 http://mrq2.azureedge.net/lanadelrey/tvshows/odeiachris/t3e22-720p.mp4
 
 #EXTINF:-1 tvg-logo="httpss://i.imgur.com/u3mKIzH.png" type="video", 4 Temporada
+http://0.0.0.0
 
 #EXTINF:-1 type="video", Episodio 1
 http://ricks8080.azureedge.net/RCServer01/videos/TDMNDOCT04EP01.mp4
