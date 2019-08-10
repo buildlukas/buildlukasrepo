@@ -44,6 +44,9 @@ https://ricks.azureedge.net/hls1/zoomoo.m3u8
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/710WeRI.jpg" group-title="Esportes" type="stream", Band Sports
 https://ricks.azureedge.net/hls1/bandsports.m3u8
 
+#EXTINF:-1 tvg-ID"BSP" group-title="Esportes" type="stream", DAZN
+ http://162.245.239.90:25461/OXpn6kuSa3/token=9aas09sa80d9809x79foidbikzfdcgsjfgqw673er5swe/180 
+
 #EXTINF:-1 tvg-ID"BSP" tvg-logo="https://i.imgur.com/36I7BPr.jpg" group-title="Esportes" type="stream", ESPN
 https://ricks.azureedge.net/hls1/espn.m3u8
 
